@@ -1,8 +1,6 @@
 # Hi there 👋, my name is Synthetic
 I am a developer from America I love coding and learning about malware and what it can do. my favorite part is being a developer for other people and making people programs that they can use anytime they want.
 
-Followers Stars
-
 🔭 I’m currently working on Threat Stealer
 
 🌱 I’m currently learning C#
